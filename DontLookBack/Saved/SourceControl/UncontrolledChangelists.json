@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/Interfaces/BPI_Interactable.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/Blueprint/BPAC_Pickup.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/Enum/E_Colors.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/Structs/E_Colors.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/Structs/S_Colors.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/Blueprint/BPFL_GeneralStuff.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/Materials/M_Outline.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Users/l.rancourt427/Desktop/Git/Don-tLookBack/DontLookBack/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset"
+			]
+		}
+	]
+}
